@@ -1,4 +1,4 @@
-Hi there 👋 I'm Hanna
+Hi there! 👋 I'm Hanna
 
 I enjoy studying human and programming languages and love solving puzzles. I'm a life long learner and an aspiring programmer.
 - 🌱 I’m currently learning React and Python.
@@ -24,3 +24,11 @@ Skills and Technologies:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna-Slesarska&layout=compact&theme=vision-friendly-dark)
+<hr>
+
+Contact me or follow me:
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="stackoverflow Badge"/>
+</div>
