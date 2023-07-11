@@ -17,3 +17,5 @@ Skills and Technologies:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="Green Sock Badge"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/hanna-slesarska-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
