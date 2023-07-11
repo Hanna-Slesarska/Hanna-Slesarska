@@ -3,7 +3,7 @@ Hi there! 👋 I'm Hanna
 I enjoy studying human and programming languages and love solving puzzles. I'm a life long learner and an aspiring programmer.
 - 🌱 I’m currently learning React and Python.
 - 🤔 Exploring technical content writing.
-- 💬 Ask me about ...
+- 💬 Ask me about Web Development
 - ⚡ In my free time I enjoy working on my pet-projects.
 <hr>
 Skills and Technologies:
