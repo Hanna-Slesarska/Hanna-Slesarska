@@ -18,4 +18,7 @@ Skills and Technologies:
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="Green Sock Badge"/>
 </div>
 
+🔥 My Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hanna-Slesarska)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna-Slesarska&layout=compact)
