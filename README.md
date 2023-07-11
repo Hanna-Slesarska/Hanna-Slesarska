@@ -2,10 +2,10 @@ Hi there 👋 I'm Hanna
 
 I enjoy studying human and programming languages and love solving puzzles. I'm a life long learner and an aspiring programmer.
 - 🌱 I’m currently learning React and Python.
-- 🤔 I’m looking for help with ...
+- 🤔 Exploring technical content writing.
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
+- ⚡ In my free time I enjoy working on my pet-projects.
+<hr>
 Skills and Technologies:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
